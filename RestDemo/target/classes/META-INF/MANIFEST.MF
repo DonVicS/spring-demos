@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: RestDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Bicho Malo
+Implementation-Vendor-Id: com.victor.spring-boot
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/RestDemo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
