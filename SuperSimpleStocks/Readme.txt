@@ -11,3 +11,7 @@ I am using the “ComandLineRunner” to inject data in the services at the begi
 In the test classes you can check how for a given stock you can get all the data using the formulas provided in the document and the four trades that happen within 15 minutes, leaving the other two out, since they’re older. You can also get the All-Share-Index; I did it with the trades of the last 15 minutes. The document doesn’t specify if I have to use only those or all of them.
 
 I hope everything is OK, and I didn’t miss anything.
+
+Run the test classes to see this working.
+
+Thank you.
